@@ -1,0 +1,44 @@
+msgid "Monday"
+msgstr "lundi"
+
+msgid "Tuesday"
+msgstr "mardi"
+
+msgid "Wednesday"
+msgstr "mercredi"
+
+msgid "Thursday"
+msgstr "jeudi"
+
+msgid "Friday"
+msgstr "vendredi"
+
+msgid "Saturday"
+msgstr "samedi"
+
+msgid "Visit"
+msgstr "Venir"
+
+msgid "to"
+msgstr "-"
+
+msgid "Warning, closed on "
+msgstr "Attention, fermé "
+
+msgid "m/d"
+msgstr "d/m"
+
+msgid "0"
+msgstr "1"
+
+msgid "All about opening hours"
+msgstr "Tous les horaires"
+
+msgid "Library access"
+msgstr "S'inscrire"
+
+msgid "en/visit/opening-hours"
+msgstr "fr/venir/horaires"
+
+msgid "en/visit/library-access"
+msgstr "fr/venir/conditions-acces"

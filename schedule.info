@@ -1,0 +1,3 @@
+name = Schedule
+description = Display the current schedule from a json url
+core = 6.x
