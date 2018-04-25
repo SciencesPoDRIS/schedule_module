@@ -1,10 +1,17 @@
 # Schedule Module
 Module for Drupal 6 to load the schedule from an url in a JSON format and display it as expected.
+The module "schedule" creates a block called "Entrée venir - horaires" to display HTML content on the front page (`'pages' => '<front>'`) in the area content (`'region' => 'content'`).
 
 
 ## Admin
 * On the drupal server
 * Folder /modules/schedule
+
+
+## Minimal requirements
+* Developped for Drupal 6.38
+* Tested on PHP 5.4
+* Use of the [hook_block](https://api.drupal.org/api/drupal/developer%21hooks%21core.php/function/hook_block/6.x)
 
 
 ## Credits
